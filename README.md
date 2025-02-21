@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[List of repositories](https://github.com/fif6?tab=repositories)
+
 <!--
 **fif6/fif6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
